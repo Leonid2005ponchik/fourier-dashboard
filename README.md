@@ -48,5 +48,5 @@ pip install -r requirements.txt
 ```
 3. Запустите дашборд:
 ```bash
-streamlit run app.py
+streamlit run fourier.py
 ```
