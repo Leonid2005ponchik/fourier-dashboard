@@ -38,7 +38,7 @@ $$b_n = \frac{2}{T} \int_{x_{min}}^{x_{max}} f(x) \sin\left(\frac{2n\pi x}{T}\ri
 
 1. Клонируйте репозиторий проекта 
 ```bash
-git clone https://github.com
+git clone https://github.com/Leonid2005ponchik/fourier-dashboard
 cd fourier-dashboard
 ```
 
